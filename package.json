@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/MrPluto/react-native-mswiper#master"
   },
   "keywords": [
     "react-native",
     "hud"
   ],
-  "author": "livan",
+  "author": "pluto",
   "license": "UNLICENSED",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/MrPluto/react-native-mswiper/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/MrPluto/react-native-mswiper"
 }
