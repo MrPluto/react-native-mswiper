@@ -1,0 +1,23 @@
+{
+  "name": "react-native-mswiper",
+  "version": "1.0.0",
+  "description": "Simple ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react-native",
+    "hud"
+  ],
+  "author": "livan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
