@@ -7,7 +7,7 @@
 `npm i react-native-mswiper --save`
 
 ### 2.How to use
-* Import
+
 `import MSwiper from 'react-native-mswiper';`
 
 
