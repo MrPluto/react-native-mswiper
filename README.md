@@ -4,11 +4,11 @@
 
 ### 1.Installation
 
-`npm i react-native-mswiper --save`
+`npm i react-native-mmswiper --save`
 
 ### 2.How to use
 
-`import MSwiper from 'react-native-mswiper';`
+`import MSwiper from 'react-native-mmswiper';`
 
 
 ```
