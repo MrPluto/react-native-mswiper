@@ -13,7 +13,7 @@
 
 ```
 1.initialization
-  renderItem(){
+  renderItem({item,index}){
     return (
       <View>
       {/*...*/}
